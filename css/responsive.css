@@ -1,0 +1,96 @@
+@media (max-width: 575.98px) {
+    .bannar-ditails h1 {
+        color: #fff;
+        font-size: 43px;
+        width: 460px;  
+    }
+    .bannar-ditails p { 
+        font-size: 18px;
+         width: 530px; 
+    }
+    .get button {
+        font-size: 15px;
+        padding: 14px 30px;
+    }
+    .bar h2 {
+        font-size: 14px;
+       margin-right: 100px;
+        padding: 10px 34px;
+        margin-top: 10px;
+    }
+    #bannar {
+        padding: 100px 0 150px 0;
+    }
+    #counter .counter-shape img {
+        z-index: -1;
+    }
+    #counter .counter-ditails {
+        border-right: none;
+    }
+    #counter {
+        padding: 130px 0px;
+    }
+    .chooes-shape img {
+        z-index: -1;
+    }
+    #chooes .chooes-left {
+        margin-left: 100px;
+    }
+    #chooes .chooes-right h4 {
+       margin-left: 100px;
+    }
+    #chooes .chooes-right p {
+      margin-left: 90px;
+      width: 413px;
+    }
+    #chooes .chooes-right button {
+       margin-left: 200px;
+        font-size: 14px;
+        padding: 14px 30px;
+    }
+    #service {
+        padding: 60px 0;
+    }
+    #service .service-title h2 {
+        text-align: center;
+    }
+    #service .service-title button {
+        font-size: 15px;
+        padding: 14px 30px;
+        margin-left: 176px;
+    }
+    #service .service-title p{
+        text-align: center;
+        margin-left: 95px;
+    
+    }
+    .service-ditails {
+       margin-left: 70px;
+       margin-top: 20px;
+    }
+    .service-box {
+        margin-left: 70px;
+       margin-top: 20px;
+    }
+    .service-social {
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+    .service-media {
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+    .service-presentation {
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+}
